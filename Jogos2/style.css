@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /
+}
+
+.texto-centralizado {
+    text-align: center;
+}
+h3 {
+    text-align: center; /* Alinha o texto ao centro */
+}
+
